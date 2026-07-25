@@ -1,6 +1,6 @@
-#Flightgear PA28 new livery
+# Flightgear PA28 Warrior II new livery
 
-An alternative livery with texture and weathering, and a new panel texture for Flightgear open flight simulator's PA28 Warrior.
+An alternative livery with texture and weathering, and a new panel texture for the Flightgear open flight simulator's "PA28" Warrior.
 
 Piper Pa-28-181 Warrior II new livery
 ![Piper Pa-28-161 Warrior II Livery with texture and weathering](/Aircraft/PA28/Screenshots/fgfs-20260721173955.png)
