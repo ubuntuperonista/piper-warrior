@@ -11,7 +11,11 @@ c.2004 panel.
 With Garmin G5 and s-Tex 55x autopilot
 ![Piper Pa-28-161 Warrior II Panel with Garmin and S Tec 55x Autopilot](/Aircraft/PA28/Screenshots/fgfs-20260725050559.png)
 
-Traditional leather panel
+
+New paneling, weathering and rivets.
+![New paneling, weathering and rivets](/Aircraft/PA28/Screenshots/fgfs-20260819194058.png)
+
+Traditional leather panel, with carpeting
 
 ![Piper Warrior II carpeting and paneling](Aircraft/PA28/Screenshots/fgfs-20260819194344.png)
 
