@@ -12,6 +12,9 @@ With Garmin G5 and s-Tex 55x autopilot
 ![Piper Pa-28-161 Warrior II Panel with Garmin and S Tec 55x Autopilot](/Aircraft/PA28/Screenshots/fgfs-20260725050559.png)
 
 Traditional leather panel
+
+![Piper Warrior II carpeting and paneling](Aircraft/PA28/Screenshots/fgfs-20260819194344.png)
+
 ![Piper Pa-28-181 Traditional leather panel](/Aircraft/PA28/Screenshots/fgfs-20260725184801.png)
 
 ![Piper Pa-28-161 Traditional leather panel landing on TJJF](/Aircraft/PA28/Screenshots/mpv-shot0003.jpg)
