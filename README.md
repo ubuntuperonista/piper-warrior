@@ -17,6 +17,8 @@ Baggage compartment and door improved texture
 New paneling, weathering and rivets.
 ![New paneling, weathering and rivets](/Aircraft/PA28/Screenshots/fgfs-20260819194058.png)
 
+![Pilot left view](/Aircraft/PA28/Screenshots/fgfs-20260825182306.png)
+
 Traditional leather panel, with carpeting
 ![Piper Warrior II carpeting and paneling](Aircraft/PA28/Screenshots/fgfs-20260819194344.png)
 
