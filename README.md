@@ -3,13 +3,16 @@
 An alternative livery with weathering textures, and a new panel texture for the Flightgear open flight simulator's "PA28" Warrior. Original plane from ![Inmersive Aircraft Group](https://github.com/ranguli/PA28).
 
 Piper Pa-28-181 Warrior II new livery
-![Piper Pa-28-161 Warrior II Livery with texture and weathering](/Aircraft/PA28/Screenshots/fgfs-20260721173955.png)
+![Weathered PA28 D-ETIK](/Aircraft/PA28/Screenshots/fgfs-20260825183850.png)
 
-c.2004 panel with correct Vertical Speed Indicator.
-![Pilot view with period-correct VSI](/Aircraft/PA28/Screenshots/fgfs-20260825182001.png)
+![Piper Pa-28-161 Warrior II Livery with texture and weathering](/Aircraft/PA28/Screenshots/fgfs-20260825183538.png)
 
 Weathered underside
 ![Pa28 weathered underside](/Aircraft/PA28/Screenshots/fgfs-20260825183208.png)
+
+
+c.2004 panel with correct Vertical Speed Indicator.
+![Pilot view with period-correct VSI](/Aircraft/PA28/Screenshots/fgfs-20260825182001.png)
 
 ![Piper Pa-28-161 Warrior II panel (c.2004)](/Aircraft/PA28/Screenshots/fgfs-20260825184244.png)
 
@@ -20,6 +23,13 @@ New paneling, weathering and rivets.
 ![New paneling, weathering and rivets](/Aircraft/PA28/Screenshots/fgfs-20260819194058.png)
 
 ![Pilot left view](/Aircraft/PA28/Screenshots/fgfs-20260825182306.png)
+
+![Passanger seats](/Aircraft/PA28/Screenshots/fgfs-20260825184431.png)
+
+![Copilot view](/Aircraft/PA28/Screenshots/fgfs-20260825184331.png)
+
+Passenger views
+![Passenger views](/Aircraft/PA28/Screenshots/fgfs-20260817020959.png)
 
 Baggage compartment door improved texture.
 ![New baggage compartment and door texture](/Aircraft/PA28/Screenshots/fgfs-20260825184055.png)
