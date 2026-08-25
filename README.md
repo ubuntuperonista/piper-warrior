@@ -6,7 +6,7 @@ Piper Pa-28-181 Warrior II new livery
 ![Piper Pa-28-161 Warrior II Livery with texture and weathering](/Aircraft/PA28/Screenshots/fgfs-20260721173955.png)
 
 c.2004 panel.
-![Piper Pa-28-161 Warrior II panel (c.2004)](Aircraft/PA28/Screenshots/fgfs-20260721171738.png)
+![Piper Pa-28-161 Warrior II panel (c.2004)](/Aircraft/PA28/Screenshots/fgfs-20260825184244.png)
 
 With Garmin G5 and s-Tex 55x autopilot
 ![Piper Pa-28-161 Warrior II Panel with Garmin and S Tec 55x Autopilot](/Aircraft/PA28/Screenshots/fgfs-20260725050559.png)
