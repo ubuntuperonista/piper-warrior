@@ -8,6 +8,9 @@ Piper Pa-28-181 Warrior II new livery
 c.2004 panel with correct Vertical Speed Indicator.
 ![Pilot view with period-correct VSI](/Aircraft/PA28/Screenshots/fgfs-20260825182001.png)
 
+Weathered underside
+![Pa28 weathered underside](/Aircraft/PA28/Screenshots/fgfs-20260825183208.png)
+
 ![Piper Pa-28-161 Warrior II panel (c.2004)](/Aircraft/PA28/Screenshots/fgfs-20260825184244.png)
 
 With Garmin G5 and s-Tex 55x autopilot
