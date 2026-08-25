@@ -27,9 +27,9 @@ Baggage compartment door improved texture.
 New texture for the baggage compartment.
 ![Baggage Compartment textures](/Aircraft/PA28/Screenshots/fgfs-20260817021108.png)
 
-Traditional leather panel, with carpeting
-![Piper Warrior II carpeting and paneling](Aircraft/PA28/Screenshots/fgfs-20260819194344.png)
+Traditional leather panel, with carpeting.
+![Piper Warrior II carpeting and paneling](/Aircraft/PA28/Screenshots/fgfs-20260819194344.png)
 
-![Piper Pa-28-161 Traditional leather panel landing on TJJF](Aircraft/PA28/Screenshots/fgfs-20260825182737.png)
+![Piper Pa-28-161 Traditional leather panel landing on TJJF](/Aircraft/PA28/Screenshots/fgfs-20260825182737.png)
 
 ![Piper Pa-28-181 Traditional leather panel](/Aircraft/PA28/Screenshots/fgfs-20260725184801.png)
