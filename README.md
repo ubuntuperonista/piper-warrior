@@ -29,7 +29,7 @@ New paneling, weathering and rivets.
 ![Copilot view](/Aircraft/PA28/Screenshots/fgfs-20260825184331.png)
 
 Passenger views
-![Passenger views](/Aircraft/PA28/Screenshots/fgfs-20260817020959.png)
+![Passenger views](/Aircraft/PA28/Screenshots/fgfs-20260817021051.png)
 
 Baggage compartment door improved texture.
 ![New baggage compartment and door texture](/Aircraft/PA28/Screenshots/fgfs-20260825184055.png)
@@ -37,8 +37,10 @@ Baggage compartment door improved texture.
 New texture for the baggage compartment.
 ![Baggage Compartment textures](/Aircraft/PA28/Screenshots/fgfs-20260817021108.png)
 
-Traditional leather panel, with carpeting.
-![Piper Warrior II carpeting and paneling](/Aircraft/PA28/Screenshots/fgfs-20260819194344.png)
+![Textured doors interiores](/Aircraft/PA28/Screenshots/fgfs-20260820154408.png)
+
+Traditional leather panel, alternate carpeting.
+![Piper Warrior II carpeting and paneling](/Aircraft/PA28/Screenshots/fgfs-20260817020959.png)
 
 ![Piper Pa-28-161 Traditional leather panel landing on TJJF](/Aircraft/PA28/Screenshots/fgfs-20260825182737.png)
 
