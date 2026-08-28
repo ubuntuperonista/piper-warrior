@@ -1,21 +1,25 @@
-You must have the "Piper PA28-161 Warrior II" already installed. 
+INSTALL
 
-  You may find the original PA-28 161 Warrior II on "FGHangar". 
+You must have the "Piper PA28-161 Warrior II" already installed.
+
+  You may find the original PA-28 161 Warrior II on "FGHangar".
   
-  In order to use the FGHangar to download free aircrafts, just go to the "Add-on" section 
-  on the Startup screen and check the "Flightgear aircraft Distribution" option for your Flightgear version
-  (2020.x or 2024.x at the moment of writing).
+  In order to use the FGHangar to download free aircrafts, just go to
+  the "Add-on" section on the Startup screen and check the "Flightgear
+  aircraft Distribution" option for your Flightgear version (2020.x or
+  2024.x at the moment of writing).
 
-If you have the original "Piper PA-28 Warrior II already installed, you just need to copy and paste 
-the new "PA28" folder inside your Flightgear's "Aicraft" directory; just replace the original texture
+If you have the original "Piper PA-28 Warrior II already installed, you
+just need to copy and paste the new "PA28" folder inside your
+Flightgear's "Aicraft" directory; just replace the original texture
 files with the new ones.
 
-For example: 
+For example:
 
-   If you want to use the Terminal on Debian/Ubuntu Linux with Flightgear 2024.x
-   you may use these commands:
+   If you want to use the Terminal on Debian/Ubuntu Linux with
+   Flightgear 2024.x you may use these commands:
 
-        cd /tmp ;
-        git clone https://github.com/ubuntuperonista/piper-warrior/ ;
-        cd /tmp/piper-warrior/ ;
-        mv Aircraft/PA28 /home/$USER/.fgfs/Aircraft/org.flightgear.fgaddon.stable_2024/
+cd /tmp ;
+git clone https://github.com/ubuntuperonista/piper-warrior/ ;
+cd /tmp/piper-warrior/ ;
+mv Aircraft/PA28 /home/$USER/.fgfs/Aircraft/org.flightgear.fgaddon.stable_2024/
