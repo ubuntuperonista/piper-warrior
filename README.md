@@ -3,9 +3,9 @@
 An alternative livery with weathering textures, and a new panel texture for the Flightgear open flight simulator's "PA28" Warrior. Original plane from ![Inmersive Aircraft Group](https://github.com/ranguli/PA28).
 
 Piper Pa-28-181 Warrior II new livery
-![Piper Pa-28-161 Warrior II Livery with texture and weathering](/Aircraft/PA28/Screenshots/fgfs-20260825183538.png)
+![Piper Pa-28-161 Warrior II Livery with texture and weathering](/Aircraft/PA28/Screenshots/pa28_flightgear_livery01.png)
 
-![Weathered PA28 D-ETIK](/Aircraft/PA28/Screenshots/fgfs-20260825183850.png)
+![Weathered PA28 D-ETIK](/Aircraft/PA28/Screenshots/pa28_flightgear_livery02.png)
 
 Weathered underside
 ![Pa28 weathered underside](/Aircraft/PA28/Screenshots/fgfs-20260825183208.png)
