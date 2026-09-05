@@ -21,7 +21,7 @@ c.2004 panel with correct Vertical Speed Indicator.
 ![Piper Pa-28-161 Warrior II panel (c.2004)](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_copilot02_panel.jpg)
 
 With Garmin G5 and s-Tex 55x autopilot
-![Piper Pa-28-161 Warrior II Panel with Garmin and S Tec 55x Autopilot](/Aircraft/PA28/Screenshots/pa28_flightgear_panel05_garmin.png)
+![Piper Pa-28-161 Warrior II Panel with Garmin and S Tec 55x Autopilot](/Aircraft/PA28/Screenshots/pa28_flightgear_panel05_garmin.jpg)
 
 Piper PA28 floor carpet new textures.
 ![Piper PA28 floor carpet](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_carpet.jpg)
