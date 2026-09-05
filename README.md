@@ -28,15 +28,12 @@ Piper PA28 floor carpet new textures.
 
 New paneling, weathering and rivets.
 ![New paneling, weathering and rivets](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_pilot_right.jpg)
-
+Passanger views
 ![Copilot left view](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_copilot04_left.jpg)
 
 ![Passanger seats](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_carpet03_alt.jpg)
 
 ![Copilot view](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_copilot01_right.jpg)
-
-Passenger views
-![Passenger views](/Aircraft/PA28/Screenshots/fgfs-20260817021051.png)
 
 Baggage compartment door improved texture.
 ![New baggage compartment and door texture](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_pax03.jpg)
@@ -44,6 +41,7 @@ Baggage compartment door improved texture.
 New texture for the baggage compartment.
 ![Baggage Compartment textures](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_baggage_bay.jpg)
 
+![Passenger views](/Aircraft/PA28/Screenshots/pa28_flightgear_opendoor01.jpg)
 
 Traditional leather panel, alternate carpeting.
 ![Piper Warrior II carpeting and paneling](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_carpet02_alt.jpg)
