@@ -2,6 +2,9 @@
 
 An alternative livery with weathering textures, and a new panel texture for the Flightgear open flight simulator's "PA28" Warrior. Original plane from ![Inmersive Aircraft Group](https://github.com/ranguli/PA28).
 
+I recreated the original PA28-161 with somewhat improved texture details. 2D textures has been added to represent passenger and baggage doors, carpets, panel trimming, using reference photographs of authentic Third Party detailing and replacement parts. Exterior riveted skin and paneling has been included. Panels and period correct Piper logo yoke are included for added realism to the 3D cockpit.
+
+
 ## Screenshots
 
 New detailed liveries for Flightgear Piper Pa-28-181 Warrior II /D-ETIK and N2438Y)
