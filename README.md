@@ -29,6 +29,9 @@ With Garmin G5 and s-Tex 55x autopilot
 Piper PA28 floor carpet new textures.
 ![Piper PA28 floor carpet](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_carpet.jpg)
 
+New textured dome ceiling details.
+![Piper PA28 dome ceiling](pa28_flightgear_interior_backseat_dome_ceiling.jpg)
+
 New paneling, weathering and rivets.
 ![New paneling, weathering and rivets](/Aircraft/PA28/Screenshots/pa28_flightgear_interior_pilot_right.jpg)
 Passanger views
